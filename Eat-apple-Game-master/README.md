@@ -1,7 +1,7 @@
 # Eat-apple-Game
-python+pygame吃苹果小游戏演示  
+吃苹果小游戏
 
 ## 预览  
 ![](./previews/previews1.png)  
-![](./previews/previews2.png)  
+
 
